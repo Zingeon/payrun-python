@@ -12,6 +12,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/Zingeon/payrun-python",
+    download_url = "https://codeload.github.com/Zingeon/payrun-python/tar.gz/0.0.2",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
